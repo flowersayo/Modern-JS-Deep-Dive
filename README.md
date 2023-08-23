@@ -37,8 +37,6 @@
 - 매주 2회 스터디를 진행하며, 1회기당 3장씩 학습을 진행합니다. 
 - 매주 학습한 내용을 자신이 원하는 곳 (노션, 벨로그, 티스토리, 깃허브 등)에 정리하여 인증합니다.
 
-## 팀원 소개 
-
 
 ## 🧑‍💻 팀원 소개
 
@@ -55,12 +53,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/HyewonKkang" target="_blank">@flowersayo</a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160"></a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160"></a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160"></a></td>
+      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@YelynnOh</a></td>
+      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@dooli1971039</a></td>
+      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@helpingstar</a></td>
     </tr>
   </table>
-
 
 ## Curriculum
 
