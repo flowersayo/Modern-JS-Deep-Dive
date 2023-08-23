@@ -43,9 +43,9 @@
   <table>
     <tr>
       <td align="center"><img src="https://github.com/flowersayo.png" width="160"></td>
-      <td align="center"><img src="https://github.com/Gaeun-Kwon.png" width="160"></td>
-    <td align="center"><img src="https://github.com/dooli1971039" width="160"></td>
-      <td align="center"><img src="https://github.com/helpingstar" width="160"></td>
+      <td align="center"><img src="https://github.com/YelynnOh.png" width="160"></td>
+    <td align="center"><img src="https://github.com/dooli1971039.png" width="160"></td>
+      <td align="center"><img src="https://github.com/helpingstar.png" width="160"></td>
     </tr>
     <tr>
       <td align="center"> 김서연 </td>
