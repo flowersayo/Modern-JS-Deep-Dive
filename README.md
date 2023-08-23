@@ -52,10 +52,10 @@
       <td align="center"> 박우성 </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/HyewonKkang" target="_blank">@flowersayo</a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@YelynnOh</a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@dooli1971039</a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@helpingstar</a></td>
+      <td align="center"><a href="https://github.com/flowersayo" target="_blank">@flowersayo</a></td>
+      <td align="center"><a href="https://github.com/YelynnOh" target="_blank" width="160">@YelynnOh</a></td>
+      <td align="center"><a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a></td>
+      <td align="center"><a href="https://github.com/helpingstar" target="_blank" width="160">@helpingstar</a></td>
     </tr>
   </table>
 
