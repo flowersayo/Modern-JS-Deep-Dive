@@ -31,6 +31,10 @@
 
 2023.08.21 ~ 2023.10.16 (약 2개월) 
 
+## 출석시트
+
+https://docs.google.com/spreadsheets/d/1dNDXUA6bJ0aOp9Us9xSpoA3PB6Rm6xA4BNJtHTskTV4/edit#gid=0
+
 
 ## 스터디 방식
 
