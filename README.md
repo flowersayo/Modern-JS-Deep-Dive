@@ -48,7 +48,7 @@
       <td align="center"><img src="https://github.com/helpingstar.png" width="160"></td>
     </tr>
     <tr>
-      <td align="center"> 김서연 </td>
+      <td align="center"> 김서연 (스터디장) </td>
       <td align="center"> 오예린 </td>
         <td align="center"> 이진경 </td>
       <td align="center"> 박우성 </td>
