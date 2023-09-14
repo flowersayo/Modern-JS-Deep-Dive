@@ -65,26 +65,28 @@
 
 ## Curriculum
 
-| 회차 | 날짜    | 주제                                        | 스크럼&포스팅 담당자 | 정리본 |
-|:----:|:-------:|:------------------------------------------:|:------------------:|:------:|
-|  1   |  8/24 목   | 04장 변수, 05장 표현식과 문, 06장 데이터 타입 |    @dooli1971039          |        |
-|  2   |  8/28 월   | 07장 연산자, 08장 제어문, 09장 타입변환과 단축 평가 |  @YelynnOh          |        |
-|  3   |  8/31 목   | 10장 객체리터럴, 11장 원시값과 객체의 비교, 12장 함수 |              |        |
-|  4   |  9/4 월    | 13장 스코프, 14장 전역 변수의 문제점, 15장 let,const 키워드와 블록 레벨 스코프 | | |
-|  5   |  9/7 목    | 16장 프로퍼티 어트리뷰트, 17장 생성자 함수에 의한 객체 생성, 18장 함수와 일급 객체 | | |
-|  6   |  9/11 월   | 19장 프로토타입, 20장 strict mode, 21장 빌트인 객체 |                |        |
-|  7   |  9/14 목   | 22장 this, 23장 실행 컨텍스트, 24장 클로저, 25장 클래스 |          |        |
-|  8   |  9/18 월   | 26장 ES6 함수의 추가 기능, 27장 배열, 28장 Number |            |        |
-|  9   |  9/21 목   | 29장 Math, 30장 Date, 31장 RegExp             |                    |        |
-| 10   |  9/25 월   | 32장 String, 33장 7번째 데이터 타입 Symbol, 34장 이터러블 |         |        |
-| 11   | 10/2 월    | 35장 스프레드 문법, 36장 디스트럭처링 할당, 37장 Set과 Map |         |        |
-| 12   | 10/5 목    | 38장 브라우저의 렌더링 과정                  |                    |        |
-| 13   | 10/12 목   | 39장 DOM                                   |                    |        |
-|  14  | 10/16 월   | 40장 이벤트                                |                    |        |
-|  15  | 10/19 목   | 41장 타이머, 42장 비동기 프로그래밍, 43장 Ajax |                   |        |
-|  16  | 10/23 월   | 44장 REST API, 45장 프로미스               |                    |        |
-|  17  | 10/26 목   | 46장 제너레이터와 async/await, 47장 에러처리, 48장 모듈 |         |        |
 
+아래는 요청하신 스크럼 담당자를 HTML 링크 태그로 대체한 표입니다.
+
+| 회기 | 날짜  | 주제 | 스크럼 담당 |
+|:----:|:----:|:---:|:----------:|
+|  1   | 8/24 | 04장 변수, 05장 표현식과 문, 06장 데이터 타입 | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
+|  2   | 8/28 | 07장 연산자, 08장 제어문, 09장 타입변환과 단축 평가 | <a href="https://github.com/YelynnOh" target="_blank" width="160">@YelynnOh</a> |
+|  3   | 8/31 | 10장 객체리터럴, 11장 원시값과 객체의 비교, 12장 함수 | <a href="https://github.com/helpingstar" target="_blank" width="160">@helpingstar</a> |
+|  4   | 9/4  | 13장 스코프, 14장 전역 변수의 문제점, 15장 let,const 키워드와 블록 레벨 스코프 | <a href="https://github.com/flowersayo" target="_blank">@flowersayo</a> |
+|  5   | 9/7  | 16장 프로퍼티 어트리뷰트, 17장 생성자 함수에 의한 객체 생성, 18장 함수와 일급 객체 | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
+|  6   | 9/11 | 19장 프로토타입, 20장 strict mode | <a href="https://github.com/YelynnOh" target="_blank" width="160">@YelynnOh</a> |
+|  7   | 9/14 | 21장 빌트인 객체, 22장 this, 23장 실행 컨텍스트 | <a href="https://github.com/helpingstar" target="_blank" width="160">@helpingstar</a> |
+|  8   | 9/18 | 24장 클로저, 25장 클래스, 26장 ES6 함수의 추가 기능 | <a href="https://github.com/flowersayo" target="_blank">@flowersayo</a> |
+|  9   | 9/21 | 27장 배열, 28장 Number, 29장 Math, 30장 Date, 31장 RegExp | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
+| 10   | 9/25 | 32장 String, 33장 7번째 데이터 타입 Symbol, 34장 이터러블 | <a href="https://github.com/YelynnOh" target="_blank" width="160">@YelynnOh</a> |
+| 11   | 10/2 | 35장 스프레드 문법, 36장 디스트럭처링 할당, 37장 Set과 Map | <a href="https://github.com/helpingstar" target="_blank" width="160">@helpingstar</a> |
+| 12   | 10/5 | 38장 브라우저의 렌더링 과정 | <a href="https://github.com/flowersayo" target="_blank">@flowersayo</a> |
+| 13   | 10/12 | 39장 DOM | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
+| 14   | 10/16 | 40장 이벤트 | <a href="https://github.com/YelynnOh" target="_blank" width="160">@YelynnOh</a> |
+| 15   | 10/19 | 41장 타이머, 42장 비동기 프로그래밍, 43장 Ajax | <a href="https://github.com/helpingstar" target="_blank" width="160">@helpingstar</a> |
+| 16   | 10/23 | 44장 REST API, 45장 프로미스 | <a href="https://github.com/flowersayo" target="_blank" width="160">@flowersayo</a> |
+| 17   | 10/26 | 46장 제너레이터와 async/await, 47장 에러처리, 48장 모듈 | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
 
 
 (9.28 추석 10.9 한글날 빨간날로 쉬어갑니다.)
