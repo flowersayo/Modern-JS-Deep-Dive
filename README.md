@@ -70,8 +70,6 @@ https://docs.google.com/spreadsheets/d/1dNDXUA6bJ0aOp9Us9xSpoA3PB6Rm6xA4BNJtHTsk
 ## Curriculum
 
 
-아래는 요청하신 스크럼 담당자를 HTML 링크 태그로 대체한 표입니다.
-
 | 회기 | 날짜  | 주제 | 스크럼 담당 |
 |:----:|:----:|:---:|:----------:|
 |  1   | 8/24 | 04장 변수, 05장 표현식과 문, 06장 데이터 타입 | <a href="https://github.com/dooli1971039" target="_blank" width="160">@dooli1971039</a> |
