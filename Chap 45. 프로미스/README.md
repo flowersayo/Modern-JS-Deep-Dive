@@ -445,6 +445,33 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
 
 반면, axios 는 모든 HTTP 에러를 reject 하는 프로미스를 반환한다. 따라서 모든 에러를 catch 에서 처리할 수 있어서 편리하다.
 
+**fetch 를 통한 REST API 요청**
+
+```jsx
+const request = {  
+  get(url) {  
+    return fetch(url);  
+  },  
+  post(url, payload) {  
+    return fetch(url, {  
+      method: 'POST',  
+      headers: {'content-Type' : 'application/json'},  
+      body: JSON.stringify(payload)  
+    });  
+  },  
+  patch(url, payload) {  
+    return fetch(url, {  
+      method: 'PATCH',  
+      headers: {'content-Type' : 'application/json'},  
+      body: JSON.stringify(payload)  
+    });  
+  },  
+  delete(url) {  
+    return fetch(url, {method: 'DELETE'});  
+  }  
+};
+```
+
 ****1. GET 요청****
 
 ```jsx
